@@ -1,0 +1,38 @@
+{
+  "en": {
+    "aboutConfHeader": "About Conference",
+    "aboutConfFooter": "About the Conference",
+    "confName": "Second International Justice Conference",
+    "confDescription": "The Ministry of Justice is organizing the Second International Judicial Conference with the participation of more than 40 countries, to discuss topics related to judicial quality, ways to improve and evaluate it, and the role of developing the legislative system and judicial procedures in strengthening it. The international conference brings together an elite group of people interested in the judicial and legal aspects around the world, to exchange knowledge and experiences, and discuss opinions on judicial quality.",
+    "confTitle": "Conference title : Judicial quality",
+    "confFromToDate": "10 - 11 November 2024",
+    "confLocation": "The Ritz-Carlton Hotel",
+    "confFromTime": "09 AM",
+    "confToTime": "5 PM",
+    "confRegisterButtonText": "Register Now",
+    "confStatistics": [
+      "Dialogue Sessions",
+      "Speakers",
+      "Participating Countries",
+      "National and International Participants"
+    ]
+  },
+  "ar": {
+    "aboutConfHeader": "عن المؤتمر",
+    "aboutConfFooter": "عن المؤتمر",
+    "confName": "المؤتمر العدلي الدولي الثاني",
+    "confDescription": "تنظم وزارة العدل المؤتمر العدلي الدولي الثاني بمشاركة أكثر من 40 دولة، لمناقشة المحاور المتصلة بالجودة القضائية، وسبل تحسينها وتقييمها، ودور تطوير المنظومة التشريعية والإجراءات القضائية في تعزيزها. ويجمع المؤتمر الدولي نخبة من المهتمين بالجانب القضائي والقانوني حول العالم، لتبادل المعرفة والخبرات، ومناقشة الآراء حول الجودة القضائية.",
+    "confTitle": "عنوان المؤتمر : الجودة القضائية",
+    "confFromToDate": "10 - 11 نوفمبر 2024",
+    "confLocation": "فندق الريتز كارلتون",
+    "confFromTime": "09 صباحًا",
+    "confToTime": "5 مساءً",
+    "confRegisterButtonText": "سجل الان",
+    "confStatistics": [
+      "مشارك محلياً ودولياً",
+      "دولة مشاركة",
+      "متحدثاً",
+      "جلسة حوارية"
+    ]
+  }
+}

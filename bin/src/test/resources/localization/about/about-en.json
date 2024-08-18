@@ -1,0 +1,15 @@
+{
+  "about-conf-header" : "About Conference",
+  "about-conf-footer": "About the Conference",
+  "conf-name" : "Second International Justice Conference",
+  "conf-desc" : "The Ministry of Justice is organizing the Second International Judicial Conference with the participation of more than 40 countries, to discuss topics related to judicial quality, ways to improve and evaluate it, and the role of developing the legislative system and judicial procedures in strengthening it. The international conference brings together an elite group of people interested in the judicial and legal aspects around the world, to exchange knowledge and experiences, and discuss opinions on judicial quality.",
+  "conf-title" : "Conference title : Judicial quality",
+  "conf-from-to-date" : "10 - 11 November 2024",
+  "conf-location" : "The Ritz-Carlton Hotel",
+  "conf-from-time": "09 AM",
+  "conf-to-time": "5 PM",
+  "conf-register_button-title": "Register Now",
+  "conf-statistics": [
+    "Dialogue Sessions","Speakers","Participating Countries","National and International Participants"
+  ]
+}
